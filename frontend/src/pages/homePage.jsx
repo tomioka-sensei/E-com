@@ -1,14 +1,12 @@
 import React from 'react'
-import Nav from '../componets/header'
-import Seachbar from '../componets/Seachbar'
 
-const HomePage = () => {
+const Home = () => {
   return (
     <div>
-      <Nav/>
-      <Seachbar/>
+
+      
     </div>
   )
 }
 
-export default HomePage
+export default Home
